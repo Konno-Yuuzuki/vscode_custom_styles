@@ -1,0 +1,22 @@
+body {
+    font-family: CaskaydiaCove Nerd Font, DFGirl, LXGW WenKai GB Screen !important;
+}
+.editor-group-watermark>.letterpress {
+    background-image: url('https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode.png') !important;
+    filter: none;
+    opacity: 0.75;
+    overflow: visible;
+    transform: scale(1.5, 1.5);
+}
+.linux:lang(zh-Hans) {
+    font-family: CaskaydiaCove Nerd Font, DFGirl, LXGW WenKai GB Screen !important;
+}
+.windows:lang(zh-Hans) {
+    font-family: CaskaydiaCove Nerd Font, DFGirl, LXGW WenKai GB Screen !important;
+}
+div.view-line {
+    font-family: CaskaydiaCove Nerd Font, DFGirl, LXGW WenKai GB Screen !important;
+}
+div.composite-bar {
+    width: 100% !important;
+}
